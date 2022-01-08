@@ -7,7 +7,7 @@ wget https://raw.githubusercontent.com/uracilo/installenv/main/script.sh
 
 ```sh
 chmod +x ./script.sh
-sudo ./script.sh
+./script.sh
 ```
 
 ### Optional 
